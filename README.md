@@ -58,13 +58,8 @@ Menampilkan teks berita yang dapat di scroll. Menggunakan metode scrollview yang
 
 Layar awal yang muncul sebentar saat aplikasi dijalankan sebelum berpindah ke layar utama atau menu utama.
 
-[![](splash.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/ba3630a6-4813-4944-9aa2-28daac69c8ef)https://github.com/Hadipermana12/project_uas_android/assets/115614056/ba3630a6-4813-4944-9aa2-28daac69c8ef
-
+![](https://github.com/Hadipermana12/project_uas_android/assets/115614056/ba3630a6-4813-4944-9aa2-28daac69c8ef)
 **10.Sinopsis & Trailer / Playable Video**
 
-[![](VID-20240113-WA0002.mp4)
-](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fa3cda08-c6a2-45f5-a02c-bdd49ff8f7fa
-
-)https://github.com/Hadipermana12/project_uas_android/assets/115614056/fa3cda08-c6a2-45f5-a02c-bdd49ff8f7fa
-
+![](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fa3cda08-c6a2-45f5-a02c-bdd49ff8f7fa)
 
