@@ -66,5 +66,5 @@ Layar awal yang muncul sebentar saat aplikasi dijalankan sebelum berpindah ke la
 
 **10.Sinopsis & Trailer / Playable Video**
 
-[![](project_uas_android/blob/main/gambar/VID-20240113-WA0002.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fe00ef65-47af-4a5b-9503-c5e72c3776e3)https://github.com/Hadipermana12/project_uas_android/assets/115614056/fe00ef65-47af-4a5b-9503-c5e72c3776e3
+[![](project_uas_android/blob/main/gambar/VID-20240113-WA0002.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fe00ef65-47af-4a5b-9503-c5e72c3776e3)
 
