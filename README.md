@@ -8,7 +8,7 @@
 **1. Hallo**
 Activity pertama yang dibuat adalah Activity Halo. Menampilkan aktivitas teks "Halo! Apa Kabar?"
 
-![](IMG-20240113-WA0008.jpg)
+![](IMG-20240113-WA0008.png)
 
 **2. Toast**
 
