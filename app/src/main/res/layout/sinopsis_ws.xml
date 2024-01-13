@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:backgroundTint="@color/black">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="73dp"
+            android:layout_marginTop="50dp"
+            android:text="Watermelon Sugar"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+    <WebView
+        android:id="@+id/webView1"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="99dp"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="397dp"
+        android:text="Sinopsis :"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="365dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginTop="425dp"
+        android:justificationMode="inter_word"
+        android:text="mengisahkan perjalanan waktu seorang siswa SMA ke masa lalu. Ha Eun Gyeol merupakan seorang siswa SMA, Ia memiliki orang tua tuli, namun dirinya memiliki bakat musik luar biasa. Disebut sebagai siswa teladan karena selalu belajar dengan keras di siang hari dan bermain gitar dalam sebuah band pada malam harinya.
+
+Suatu hari, ia mengunjungi sebuah toko alat musik misterius dan terlempar ke tempat aneh. Di sana, dirinya bertemu dengan Ha Yi Chan, Choi Se Kyeong, dan Yoon Cheong Ah. Mereka membentuk sebuah band bernama Watermelon Sugar. Yi Chan adalah ayah Eun Gyeol di masa depan, namun Ia tidak mengenalinya.
+
+Ha Yi Chan jatuh cinta kepada seorang pemain cello terkenal di SMA Seni Seowon bernama Choi Se Kyeong. Sebab itulah, Yi Chan berusaha untuk merebut hatinya. Berbanding terbalik dengan Se Kyeong yang berkepribadian dingin, Ia hanya tertarik pada musik."
+        android:textSize="15dp" />
+
+</RelativeLayout>
