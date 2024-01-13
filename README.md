@@ -8,8 +8,7 @@
 **1. Hallo**
 Activity pertama yang dibuat adalah Activity Halo. Menampilkan aktivitas teks "Halo! Apa Kabar?"
 
-![](67ce2466-9d8d-4eb0-8238-6c90f826dbf4)
-
+![IMG-20240113-WA0008](https://github.com/Hadipermana12/project_uas_android/assets/115614056/44edd359-5c28-4095-945a-843cf84806a6)
 
 **2. Toast**
 
@@ -35,19 +34,20 @@ Menampilkan teks berita yang dapat di scroll. Menggunakan metode scrollview yang
 
 **4.count**
 
-![](IMG-20240113-WA0006.jpg)
+![IMG-20240113-WA0006](https://github.com/Hadipermana12/project_uas_android/assets/115614056/36daf7ab-2fc7-4e3c-8286-d2a1cf7e4d89)
+
 
 **5.fibonacci**
 
-![](IMG-20240113-WA0007.jpg)
+![IMG-20240113-WA0007](https://github.com/Hadipermana12/project_uas_android/assets/115614056/d08db69e-90e1-43f1-9d1f-371bd2f6f7e1)
+
 
 **6.Alarm**
 
-![](IMG-20240113-WA0009.jpg)
-
+![IMG-20240113-WA0009](https://github.com/Hadipermana12/project_uas_android/assets/115614056/7ce49fb2-ff97-49f3-8eb7-cc6a58449bf8)
 **7.menu**
 
-![](2024-01-13b9b2b5bc.jpg)
+![WhatsApp Image 2024-01-13 at 12 18 43_18f7e377](https://github.com/Hadipermana12/project_uas_android/assets/115614056/2a22b1ab-2dd9-4046-8fd0-1da046dba240)
 
 **8.maps**
 
@@ -58,9 +58,13 @@ Menampilkan teks berita yang dapat di scroll. Menggunakan metode scrollview yang
 
 Layar awal yang muncul sebentar saat aplikasi dijalankan sebelum berpindah ke layar utama atau menu utama.
 
-![](splash.mp4)
+[![](splash.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/ba3630a6-4813-4944-9aa2-28daac69c8ef)https://github.com/Hadipermana12/project_uas_android/assets/115614056/ba3630a6-4813-4944-9aa2-28daac69c8ef
 
 **10.Sinopsis & Trailer / Playable Video**
 
-![](VID-20240113-WA0002.mp4)
+[![](VID-20240113-WA0002.mp4)
+](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fa3cda08-c6a2-45f5-a02c-bdd49ff8f7fa
+
+)https://github.com/Hadipermana12/project_uas_android/assets/115614056/fa3cda08-c6a2-45f5-a02c-bdd49ff8f7fa
+
 
