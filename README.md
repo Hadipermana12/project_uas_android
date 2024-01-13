@@ -45,6 +45,8 @@ Menampilkan teks berita yang dapat di scroll. Menggunakan metode scrollview yang
 **6.Alarm**
 
 ![IMG-20240113-WA0009](https://github.com/Hadipermana12/project_uas_android/assets/115614056/7ce49fb2-ff97-49f3-8eb7-cc6a58449bf8)
+
+
 **7.menu**
 
 ![WhatsApp Image 2024-01-13 at 12 18 43_18f7e377](https://github.com/Hadipermana12/project_uas_android/assets/115614056/2a22b1ab-2dd9-4046-8fd0-1da046dba240)
@@ -64,5 +66,5 @@ Layar awal yang muncul sebentar saat aplikasi dijalankan sebelum berpindah ke la
 
 **10.Sinopsis & Trailer / Playable Video**
 
-![](project_uas_android/blob/main/gambar/VID-20240113-WA0002.mp4)
+[![](project_uas_android/blob/main/gambar/VID-20240113-WA0002.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/fe00ef65-47af-4a5b-9503-c5e72c3776e3)https://github.com/Hadipermana12/project_uas_android/assets/115614056/fe00ef65-47af-4a5b-9503-c5e72c3776e3
 
