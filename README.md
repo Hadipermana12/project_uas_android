@@ -8,7 +8,8 @@
 **1. Hallo**
 Activity pertama yang dibuat adalah Activity Halo. Menampilkan aktivitas teks "Halo! Apa Kabar?"
 
-![](IMG-20240113-WA0008.png)
+![IMG-20240113-WA0008](https://github.com/Hadipermana12/project_uas_android/assets/115614056/67ce2466-9d8d-4eb0-8238-6c90f826dbf4)
+
 
 **2. Toast**
 
