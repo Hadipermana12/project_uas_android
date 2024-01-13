@@ -50,7 +50,8 @@ Menampilkan teks berita yang dapat di scroll. Menggunakan metode scrollview yang
 
 **8.maps**
 
-![](VID-20240113-WA0001.mp4)
+[![](VID-20240113-WA0001.mp4)](https://github.com/Hadipermana12/project_uas_android/assets/115614056/7a73ac85-fdfe-4a0b-8867-c927499a8c35
+)
 
 **9.Splash**
 
